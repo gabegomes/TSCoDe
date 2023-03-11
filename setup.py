@@ -45,7 +45,7 @@ setup(
     long_description_content_type='text/markdown',
 
     install_requires=[
-        'numpy==1.20.3',
+        'numpy==1.22.0',
         'scipy==1.6.2',
         'numba-scipy==0.3.1',
         'cclib==1.7',
