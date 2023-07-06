@@ -46,7 +46,7 @@ setup(
 
     install_requires=[
         'numpy==1.20.3',
-        'scipy==1.6.2',
+        'scipy==1.10.0',
         'numba-scipy==0.3.1',
         'cclib==1.7',
         'periodictable==1.6.0',
